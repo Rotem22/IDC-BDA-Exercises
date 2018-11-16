@@ -1,2 +1,2 @@
-# IDC-BDA-Exercises
+# IDC-BDA-Exercises -- WALMART TEAM
 ## יסודות האנליזה העסקית
